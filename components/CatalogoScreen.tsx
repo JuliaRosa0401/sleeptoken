@@ -10,7 +10,7 @@ export default function CatalogoScreen() {
         style={styles.headerImage}
       />
       
-      <Text style={styles.title}>Discografia Sleep Token</Text>
+      <Text style={styles.title}>Discografia </Text>
 
       <FlatList
         data={catalogo}
