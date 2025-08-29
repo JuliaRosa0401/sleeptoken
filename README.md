@@ -5,7 +5,7 @@ Aplicativo desenvolvido em **React Native com Expo** que apresenta a discografia
 ---
 
 ## 📸 Preview
-![Sleep Token Logo](./assets/images/sleeptokenlogo.png)
+![Sleep Token Logo](sleeptoken.gif)
 
 ---
 
