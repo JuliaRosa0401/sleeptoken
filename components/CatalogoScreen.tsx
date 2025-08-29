@@ -27,7 +27,7 @@ export default function CatalogoScreen() {
             <Text style={styles.cardYear}>{item.ano}</Text>
             </View>
         )}
-        numColumns={3} 
+        numColumns={2} 
         columnWrapperStyle={{ justifyContent: "space-between" }} 
         
         />
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   },
   headerImage: {
     width: '100%',
-    height: 50,
+    height: 45,
     resizeMode: 'contain',
     marginBottom: 20,
   },
@@ -61,21 +61,21 @@ const styles = StyleSheet.create({
   card: {
     backgroundColor: "#1a1a1a",
     borderRadius: 12,
-    padding: 10,
-    marginBottom: 20,
+    padding: 4,
+    marginBottom: 15,
     borderWidth: 1,
     borderColor: "#333",
     shadowColor: "#000",
     shadowOpacity: 0.6,
     shadowRadius: 8,
-    elevation: 4,
     alignItems: "center",
-    width: "30%", 
+    width: "40%", 
+
 },
 cardImage: {
   width: "100%",
   height: 180, 
-  borderRadius: 12,
+  borderRadius: 10,
   marginBottom: 10,
 },
 

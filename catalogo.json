@@ -18,20 +18,28 @@
     "titulo": "This Place Will Become Your Tomb",
     "subtitulo": "Álbum",
     "ano": 2021,
-    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9f/SleepTokenTPWBYT.jpg"
+    "imagem": "https://m.media-amazon.com/images/I/61QBvn0WOjL._UF1000,1000_QL80_.jpg"
   },
   {
     "id": 4,
     "titulo": "Take Me Back To Eden",
     "subtitulo": "Álbum",
     "ano": 2023,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSuJY_5wV8go91iFM3t0giXDiAXaP7nv8-Q&s"
+    "imagem": "https://i.ytimg.com/vi/JYRgzsnMdnM/maxresdefault.jpg"
   },
   {
     "id": 5,
     "titulo": "Even in Arcadia",
     "subtitulo": "Álbum",
     "ano": 2025,
-    "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8c/Even_in_Arcadia.jpg"
+    "imagem": "https://preview.redd.it/an-honest-review-of-even-in-arcadia-from-an-outsiders-v0-86zs0vtxazze1.png?auto=webp&s=5fbeda7025adea209d7f1cb864e5a93fa968e07c"
+  },
+  {
+    "id": 6,
+    "titulo": "Sleep Token",
+    "subtitulo": "A banda",
+    "ano": 2016,
+    "imagem": "https://www.wikimetal.com.br/wp-content/uploads/2025/04/Sleep-Token.jpg"
   }
+
 ]
