@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sundowning",
+    "subtitulo": "Álbum de estreia",
+    "ano": 2019,
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/f/fc/SleepTokenSundowning.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Sundowning (Deluxe)",
+    "subtitulo": "Álbum Deluxe",
+    "ano": 2020,
+    "imagem": "https://akamai.sscdn.co/letras/360x360/albuns/2/8/f/6/2983211744233019.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "This Place Will Become Your Tomb",
+    "subtitulo": "Álbum",
+    "ano": 2021,
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9f/SleepTokenTPWBYT.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Take Me Back To Eden",
+    "subtitulo": "Álbum",
+    "ano": 2023,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSuJY_5wV8go91iFM3t0giXDiAXaP7nv8-Q&s"
+  },
+  {
+    "id": 5,
+    "titulo": "Even in Arcadia",
+    "subtitulo": "Álbum",
+    "ano": 2025,
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/8/8c/Even_in_Arcadia.jpg"
+  }
+]
