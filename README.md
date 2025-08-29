@@ -11,7 +11,7 @@ Aplicativo desenvolvido em **React Native com Expo** que apresenta a discografia
 
 ## 🚀 Funcionalidades
 - Exibição da discografia completa da banda Sleep Token.
-- Layout em **grade responsiva** (3 colunas).
+- Layout em **grade responsiva** (2 colunas).
 - Cards estilizados com:
   - 📀 Capa do álbum/EP  
   - 🎼 Título  
