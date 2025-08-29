@@ -57,6 +57,10 @@ Sua estética única mistura anonimato, espiritualidade e intensidade emocional.
 
 Este projeto é uma homenagem visual à discografia da banda.
 
+- Site oficial https://www.sleep-token.com/
+- Conta Youtube Oficial https://www.youtube.com/channel/UC-FsT1b7rc-mKVOjikjw5jg
+
+
 ## 📜 Licença
 
 Este projeto foi feito apenas para fins de estudo.
